@@ -1,7 +1,3 @@
----
-title: Pangea Overview
-description: About Pangea and its significance
----
 # Overview
 Pangea is a Security Platform as a Service (SPaaS) provider that offers a comprehensive set of services through the Pangea User Console. These services cater to various security use cases, including audit logging, PII redaction, file intelligence, and more. With over 24 services planned by the end of 2023, Pangea delivers these capabilities through an API model, allowing seamless integration into cloud applications. The platform is designed to handle varying workloads, ensure optimal performance, and maintain cost-effectiveness. Pangea leverages Kubernetes and employs queues as a failover channel to handle requests even when service pods are temporarily unavailable. By creatively balancing resources and utilizing queues, Pangea ensures that API requests are always serviced, providing developers with a robust and user-friendly security solution.
 # Important links
