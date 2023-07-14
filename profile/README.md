@@ -5,6 +5,7 @@ Read through the following links for more information about Pangea.
 - [Introduction to Pangea](https://pangea.cloud/)
 - [Pangea Docs](https://pangea.cloud/docs/)
 - [Pangea SDK Repos](https://github.com/pangeacyber)
+  - [Pangea C# tools](https://github.com/pangeacyber/pangea-csharp)
   - [Pangea Go tools](https://github.com/pangeacyber/pangea-go)
   - [Pangea Java tools](https://github.com/pangeacyber/pangea-java)
   - [Pangea JavaScript tools](https://github.com/pangeacyber/pangea-javascript)
