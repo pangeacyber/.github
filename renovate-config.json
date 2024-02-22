@@ -5,7 +5,6 @@
     ":disableDependencyDashboard",
     ":maintainLockFilesWeekly",
     ":prHourlyLimitNone",
-    ":prNotPending",
     ":semanticCommits",
     ":semanticCommitScope(deps)",
     ":widenPeerDependencies",
