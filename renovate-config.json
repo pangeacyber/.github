@@ -13,7 +13,6 @@
   ],
   "configMigration": true,
   "minimumReleaseAge": "3 days",
-  "prConcurrentLimit": 3,
   "rangeStrategy": "bump",
   "packageRules": [
     {
