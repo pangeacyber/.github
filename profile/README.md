@@ -10,6 +10,7 @@ Read through the following links for more information about Pangea.
   - [Pangea Java tools](https://github.com/pangeacyber/pangea-java)
   - [Pangea JavaScript tools](https://github.com/pangeacyber/pangea-javascript)
   - [Pangea Python tools](https://github.com/pangeacyber/pangea-python)
+- [Pangea CLI](https://github.com/pangeacyber/pangea-cli)
 - [Pangea's Education Hub](https://l.pangea.cloud/EducationHub)
 - [Pangea's Blogs](https://l.pangea.cloud/eeJ0zlU)
 - [Pangea's Slack Community](https://pangea.cloud/join-slack/)
