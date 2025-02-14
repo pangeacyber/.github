@@ -1,6 +1,6 @@
 # Overview
 
-Pangea is the world’s first composable security platform, with 19 pre-built, API-driven security services from Authorization to Audit logging. Pangea’s composable security APIs unlock critical application security runtime visibility and control for security teams, simplifies compliance auditing for GRC teams, and accelerates engineering velocity with security features that can be easily deployed in minutes. With Pangea, organizations can ship applications secure by design and secure by default.
+Pangea empowers organizations to ship secure AI applications quickly with the industry’s broadest set of AI security guardrails, easily deployed at gateways and in app with just a few lines of code.
 
 # Open-source projects
 
