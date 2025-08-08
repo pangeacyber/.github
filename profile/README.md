@@ -18,4 +18,3 @@ Pangea empowers organizations to ship secure AI applications quickly with the in
 - [Pangea Docs](https://l.pangea.cloud/PangeaDocs)
 - [Pangea's Education Hub](https://l.pangea.cloud/EducationHub)
 - [Pangea's Blogs](https://l.pangea.cloud/eeJ0zlU)
-- [Pangea's Discourse Community](https://l.pangea.cloud/Jd4wlGs)
