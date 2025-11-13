@@ -12,7 +12,7 @@
     "docker:pinDigests"
   ],
   "configMigration": true,
-  "minimumReleaseAge": "3 days",
+  "minimumReleaseAge": "6 days",
   "rangeStrategy": "bump",
   "packageRules": [
     {
