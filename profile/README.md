@@ -30,7 +30,7 @@ Pangea empowers organizations to ship secure AI applications quickly with the in
 
 # Learn more
 
-- [Introduction to Pangea](https://l.pangea.cloud/introduction)
-- [Pangea Docs](https://l.pangea.cloud/PangeaDocs)
-- [Pangea's Education Hub](https://l.pangea.cloud/EducationHub)
-- [Pangea's Blogs](https://l.pangea.cloud/eeJ0zlU)
+- [Introduction to Pangea](https://pangea.cloud/?utm_source=github&utm_medium=repo&utm_campaign=introduction-to-pangea)
+- [Pangea Docs](https://pangea.cloud/docs/?utm_source=github&utm_campaign=overview-docs&utm_medium=repo)
+- [Pangea's Education Hub](https://pangea.cloud/securebydesign/?utm_source=github&utm_medium=repo&utm_campaign=overview-education-hub)
+- [Pangea's Blogs](https://pangea.cloud/blog/?utm_source=github&utm_medium=repo&utm_campaign=overview)
